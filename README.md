@@ -1,1 +1,1 @@
-# Maze-Solver-using-BFS-DFS-A--GBFS
+# Maze-Solver-using-BFS-DFS-Astar-GBFS
